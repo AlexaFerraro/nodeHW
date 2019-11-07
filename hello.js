@@ -18,3 +18,5 @@ console.log(greeting.getMessage(userName));
 alex.displayInfo();
 alex.sayHi();
 
+console.log(userName);
+
